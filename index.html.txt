@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kim's Curb Appeal</title>
+    <style>
+        body { font-family: Arial; text-align: center; background: #f4f4f4; }
+        h1 { color: green; }
+        .box { background: white; padding: 20px; margin: 40px auto; width: 300px; border-radius: 10px; }
+        a { display: block; margin-top: 15px; color: blue; }
+    </style>
+</head>
+<body>
+<div class="box">
+    <h1>Kim's Curb Appeal</h1>
+    <p>Grass Cutting • Weed Whacking • Clean Blow-Off</p>
+    <p>Serving Marlton, Mount Laurel, Evesham</p>
+    <p><strong>Free Estimates</strong></p>
+    <p>📧 kimscurbappeal@yahoo.com</p>
+</div>
+</body>
+</html>
